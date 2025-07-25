@@ -1,6 +1,6 @@
-# ⌚ Ticker Watches - Stylish Watch Store Website
+# ⌚ WatchHaven - Stylish Watch Store Website
 
-Welcome to **Ticker Watches**, a modern and stylish website built to showcase an elegant collection of watches. This project displays three main watch categories: Casual, Luxury, and Smart watches.
+Welcome to **WatchHaven**, a modern and stylish website built to showcase an elegant collection of watches. This project displays three main watch categories: Casual, Luxury, and Smart watches.
 
 🔗 **Live Website:** [Click here to visit](https://darshanachinthaka.github.io/Web_Project/)
 
@@ -13,15 +13,15 @@ Welcome to **Ticker Watches**, a modern and stylish website built to showcase an
   - **Casual Watch** – Perfect for everyday wear.
   - **Luxury Watch** – Elegant and timeless craftsmanship.
   - **Smart Watch** – Advanced and connected with tech features.
-- ℹ️ About Us section explaining the vision of Ticker Watches.
+- ℹ️ About Us section explaining the vision of WatchHaven.
 
 ---
 
 ## 💡 Technologies Used
 
 - HTML5
-- CSS3
-- (Optional) Bootstrap for responsive layout
+- CSS
+- Bootstrap for responsive layout
 - GitHub Pages (for hosting)
 
 
