@@ -24,7 +24,5 @@ Welcome to **Ticker Watches**, a modern and stylish website built to showcase an
 - (Optional) Bootstrap for responsive layout
 - GitHub Pages (for hosting)
 
----
 
-## 📁 Folder Structure
 
