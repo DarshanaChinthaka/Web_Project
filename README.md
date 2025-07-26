@@ -19,7 +19,7 @@ Welcome to **WatchHaven**, a modern and stylish website built to showcase an ele
 
 ## 💡 Technologies Used
 
-- HTML5
+- HTML
 - CSS
 - Bootstrap for responsive layout
 - GitHub Pages (for hosting)
